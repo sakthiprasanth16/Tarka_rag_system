@@ -190,12 +190,6 @@ GEMINI_API_KEY=AIzaSy...
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgements
 
 - [Tarka Labs](https://huggingface.co/Tarka-AIR) for the Tarka-Embedding models
