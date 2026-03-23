@@ -1,0 +1,13 @@
+streamlit
+sentence-transformers>=3.0.0
+faiss-cpu
+PyPDF2
+python-docx
+google-generativeai
+python-dotenv
+numpy
+torch>=2.6.0
+transformers>=4.50.0
+tiktoken
+huggingface_hub>=0.26.0
+accelerate
