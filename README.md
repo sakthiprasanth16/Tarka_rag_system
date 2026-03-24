@@ -7,7 +7,6 @@
 [![HuggingFace Space](https://img.shields.io/badge/🤗%20Live%20Demo-HuggingFace%20Space-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/prasanthr0416/Tarka_rag_system)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 **Upload any document. Ask anything. Get precise answers.**
 
