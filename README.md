@@ -1,4 +1,4 @@
-# 🔍 TarkaRAG — Intelligent Document Q&A System
+# 🔍 RAG System — Intelligent Document Q&A System
 
 <div align="center">
 
@@ -16,9 +16,9 @@
 
 ---
 
-## ✨ What is TarkaRAG?
+## ✨ What is RAG System?
 
-TarkaRAG is a local **Retrieval-Augmented Generation (RAG)** system that lets you upload any document and ask questions about it in natural language. It uses **Tarka-Embedding-150M-V1** for semantic search and **Gemini 2.5 Flash** to generate precise, grounded answers.
+RAG System is a local **Retrieval-Augmented Generation (RAG)** system that lets you upload any document and ask questions about it in natural language. It uses **Tarka-Embedding-150M-V1** for semantic search and **Gemini 2.5 Flash** to generate precise, grounded answers.
 
 No hallucinations. No guessing. Only answers from your document.
 
