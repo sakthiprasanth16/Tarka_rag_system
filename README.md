@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![TarkaRAG Banner](https://img.shields.io/badge/TarkaRAG-Document%20Intelligence-6366f1?style=for-the-badge&logo=bookstack&logoColor=white)
+![RAG Banner](https://img.shields.io/badge/TarkaRAG-Document%20Intelligence-6366f1?style=for-the-badge&logo=bookstack&logoColor=white)
 
 [![HuggingFace Space](https://img.shields.io/badge/🤗%20Live%20Demo-HuggingFace%20Space-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/prasanthr0416/Tarka_rag_system)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
