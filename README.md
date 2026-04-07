@@ -86,8 +86,8 @@ Upload a PDF, DOCX, or TXT file and start asking questions instantly!
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/tarka-rag-system.git
-cd tarka-rag-system
+git clone https://github.com/yourusername/rag-system.git
+cd rag-system
 
 # 2. Create virtual environment
 python -m venv venv
@@ -111,7 +111,7 @@ Open **http://localhost:8501** in your browser!
 ## 📁 Project Structure
 
 ```
-tarka-rag-system/
+rag-system/
 ├── app.py                  # Streamlit UI — main entry point
 ├── document_processor.py   # PDF/DOCX/TXT extraction + document stats
 ├── embedder.py             # Tarka-150M embedding + FAISS index
